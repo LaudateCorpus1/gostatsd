@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/ash2k/stager v0.0.0-20170622123058-6e9c7b0eacd4
-	github.com/aws/aws-sdk-go v1.28.13
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/dvyukov/go-fuzz v0.0.0-20191206100749-a378175e205c
 	github.com/elazarl/go-bindata-assetfs v1.0.0 // indirect
@@ -24,7 +24,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.6.2
 	github.com/stephens2424/writerset v1.0.2 // indirect
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/tilinna/clock v1.0.2
 	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
